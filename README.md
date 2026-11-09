@@ -21,7 +21,7 @@ The app is fully bilingual. Arabic is right-to-left from the first screen, and E
 
 ## Features
 
-**Mushaf reader.** The Madinah Mushaf, page by page, with surah and juz headers, search and tafsir al-Muyassar. Your bookmark carries over between sessions, so free reading always continues from your last page.
+**Mushaf reader.** The Madinah Mushaf, page by page, with surah and juz headers, search and tafsir al-Muyassar, all built into the app so it works offline. Your bookmark carries over between sessions, so free reading always continues from your last page.
 
 **Four ways to read a khatmah.**
 
@@ -38,7 +38,7 @@ Friends join with an invite code or link.
 
 **Leaderboard.** An opt-in public board, weekly and monthly, ranked by days read in the app. You choose whether to appear, and can show only your flag instead of your name.
 
-**Prayer times from official sources.** Times come from each country's religious authority rather than a generic calculation: the Ministry of Endowments and Religious Affairs in Oman, the Umm al-Qura calendar in Saudi Arabia, and the General Authority of Islamic Affairs and Endowments in the UAE. Qatar, Kuwait and Bahrain are next. Pick your governorate on a map during setup.
+**Prayer times from official sources.** Times come from each country's religious authority rather than a generic calculation: the Ministry of Endowments and Religious Affairs in Oman, the Umm al-Qura calendar in Saudi Arabia, and the General Authority of Islamic Affairs, Endowments and Zakat in the UAE, and the Ministry of Awqaf and Islamic Affairs in Qatar (Doha). Kuwait and Bahrain are next. Pick your governorate on a map during setup.
 
 **Mishkat design.** A parchment-and-lapis look with gold accents, an eight-pointed star motif and Arabic calligraphic type, in day and night appearance.
 
@@ -100,19 +100,19 @@ Khitam is in active development and is being prepared for the App Store and Goog
 - **أربعة أنواع من الختمات:** وحدي، وسباق ١ ضد ١، وسباق جماعي بالنقاط، وختمة مشتركة يتقاسم فيها الأهل الأجزاء الثلاثين.
 - **تحديات اليوم:** سورة الكهف يوم الجمعة قبل المغرب، وسورة الملك في الليل، مع تذكير في وقتها.
 - **لوحة المتصدرين:** أسبوعية وشهرية بحسب أيام القراءة، والظهور فيها باختيارك.
-- **مواقيت الصلاة من مصادرها الرسمية:** وزارة الأوقاف والشؤون الدينية في سلطنة عُمان، وتقويم أم القرى في السعودية، والهيئة العامة للشؤون الإسلامية والأوقاف في الإمارات، وقطر والكويت والبحرين قريبًا.
+- **مواقيت الصلاة من مصادرها الرسمية:** وزارة الأوقاف والشؤون الدينية في سلطنة عُمان، وتقويم أم القرى في السعودية، والهيئة العامة للشؤون الإسلامية والأوقاف والزكاة في الإمارات، ووزارة الأوقاف والشؤون الإسلامية في قطر (الدوحة)، والكويت والبحرين قريبًا.
 - **تصميم مشكاة:** ألوان الرَّق واللازورد والذهب، ونجمة ثمانية، وخطوط عربية، بمظهر نهاري وليلي.
 
 <table>
   <tr>
-    <td align="center"><img src="assets/screens/ar-welcome.png" width="200"><br><sub>الترحيب</sub></td>
     <td align="center"><img src="assets/screens/ar-today.png" width="200"><br><sub>اليوم</sub></td>
-    <td align="center"><img src="assets/screens/ar-khatmahs.png" width="200"><br><sub>ختماتي</sub></td>
+    <td align="center"><img src="assets/screens/ar-reader.png" width="200"><br><sub>المصحف</sub></td>
+    <td align="center"><img src="assets/screens/ar-prayers.png" width="200"><br><sub>الصلاة</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/screens/ar-prayers.png" width="200"><br><sub>الصلاة</sub></td>
-    <td align="center"><img src="assets/screens/ar-signin.png" width="200"><br><sub>تسجيل الدخول</sub></td>
-    <td align="center"><img src="assets/screens/ar-profile.png" width="200"><br><sub>حسابي</sub></td>
+    <td align="center"><img src="assets/screens/ar-wizard.png" width="200"><br><sub>ختمة جديدة</sub></td>
+    <td align="center"><img src="assets/screens/ar-khatmahs.png" width="200"><br><sub>ختماتي</sub></td>
+    <td align="center"><img src="assets/screens/ar-welcome.png" width="200"><br><sub>الترحيب</sub></td>
   </tr>
 </table>
 
